@@ -1,0 +1,16 @@
+AGE,WORKCLASS,FNLWGT,EDUCATION,EDUCATION-NUM,MARITAL_STATUS,OCCUPATION,RELATIONSHIP,RACE,SEX,CAPITAL_GAIN,CAPITAL_LOSS,HOURS_PER_WEEK,NATIVE_COUNTRY,BUY2
+63,Private,203821, HS-grad,9, Married-civ-spouse, ?, Husband, White, Male,0,0,40, United-States,??
+37, Private,203849, 9th,5, Married-civ-spouse, Craft-repair, Husband, White, Male,0,0,40, United-States,??
+37, Private,203828,7th-8th,5, Married-civ-spouse, Transport-moving, Husband, White, Male,0,0,65, United-States,??
+37, Self-emp-not-inc,203828, HS-grad,10, Married-civ-spouse, Sales, Husband, White, Male,0,0,45, United-States,??
+29, Private,203833, Bachelors,13,Married-civ-spouse, Prof-specialty, Not-in-family, Black, Male,0,0,40, United-States,??
+30, ?,203834, Bachelors,13, Never-married,Sales, Not-in-family, Asian-Pac-Islander, Female,0,0,50, Taiwan,??
+38, Private,203836, HS-grad,9, Married-civ-spouse, Sales,Not-in-family, White, Male,3464,0,40, Columbia,??
+38, Self-emp-not-inc,203836, 5th-6th,3, Never-married, Transport-moving, Not-in-family,Asian-Pac-Islander, Male,0,0,40, United-States,??
+45, Self-emp-inc,271901, HS-grad,9, Married-civ-spouse, Sales, Husband, White, Male,0,0,32, United-States,??
+38, Private,203836, Some-college,10, Married-civ-spouse, Sales, Husband, White,Female,0,0,50, United-States,??
+36, Federal-gov,203836, Some-college,10, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,2100,0,50, United-States,??
+61, ?,203849, Some-college,10, Divorced, ?, Not-in-family, White, Female,0,1540,40, United-States,??
+32, State-gov,203849, 7th-8th,4, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,0,0,60, United-States,??
+32, Local-gov,203849, Some-college,10, Married-civ-spouse, Transport-moving, Husband, White, Male,0,0,19,Taiwan,??
+25, Private,203871, Assoc-voc,4, Married-civ-spouse, Prof-specialty, Wife, White, Female,0,1887,40, United-States,??
